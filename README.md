@@ -1,5 +1,5 @@
-# proyecto-final-henry
-Repo para el código del proyecto final de Henry (Temporal)
+# proyecto-final-henry 👷‍♂️👨‍💻🥇
+Repo for final project code from Soy Henry bootcamp (Temporal ⌚⏳)
 
-## Description
+## Description 🤓
 Here, I included the code I created during the final project of the Soy Henry bootcamp.
