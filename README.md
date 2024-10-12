@@ -1,4 +1,4 @@
-# proyecto-final-henry 👷‍♂️👨‍💻🥇
+# final-project-soy-henry 👷‍♂️👨‍💻🥇
 Repo for final project code from Soy Henry bootcamp (Temporal ⌚⏳)
 
 ## Description 🤓
