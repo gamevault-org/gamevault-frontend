@@ -1,4 +1,4 @@
-# final-project-soy-henry 👷‍♂️👨‍💻🥇
+# GameVault E-commerce 👷‍♂️👨‍💻🥇
 Repo for final project code from Soy Henry bootcamp.
 
 ## Description 📚
