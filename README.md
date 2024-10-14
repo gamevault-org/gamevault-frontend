@@ -1,5 +1,5 @@
 # final-project-soy-henry 👷‍♂️👨‍💻🥇
-Repo for final project code from Soy Henry bootcamp (Temporal ⌚⏳)
+Repo for final project code from Soy Henry bootcamp.
 
 ## Description 📚
-Here, I included the code I created during the final project of the Soy Henry bootcamp.
+Here, we'll include code for the frontend of GameVault e-commerce
