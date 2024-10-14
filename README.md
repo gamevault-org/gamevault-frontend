@@ -1,4 +1,4 @@
-# GameVault E-commerce 👷‍♂️👨‍💻🥇
+# GameVault E-commerce (frontend) 👷‍♂️👨‍💻🥇
 Repo for final project code from Soy Henry bootcamp.
 
 ## Description 📚
